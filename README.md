@@ -5,19 +5,7 @@ A real-time computer vision project that allows users to **control YouTube video
 Built using **Python 3.10**, **OpenCV**, and **MediaPipe**.
 
 ---
-
-## 📸 Demo Preview
-![alt text](<Screenshot 2025-06-15 172403.png>)
-![alt text](<Screenshot 2025-06-15 173453.png>)
-
-
-
 > 🎥 Control volume with Zoom gestures, play/pause with taps, switch videos with thumbs up/down, and type using an on-screen keyboard — all with your hands!
-
-
-
----
-
 ## 🛠️ Technologies Used
 
 | Library          | Purpose                                      |
