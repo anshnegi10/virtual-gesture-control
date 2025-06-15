@@ -49,7 +49,9 @@ Built using **Python 3.10**, **OpenCV**, and **MediaPipe**.
 
 ---
 
-## 🧱 Project Structure
+## 🔧 Project Structure
+
+```bash
 Virtual Gesture Control/
 │
 ├── main.py                  # Entry script for keyboard + gesture controller
@@ -73,9 +75,7 @@ Virtual Gesture Control/
 └── SS2.png                  # Screenshot 2 (project demo)
 
 
-yaml
-Copy
-Edit
+
 
 ---
 
