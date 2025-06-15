@@ -72,7 +72,7 @@ Virtual Gesture Control/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/virtual-gesture-control.git
+git clone  https://github.com/anshnegi10/virtual-gesture-control.git
 cd virtual-gesture-control
 2. Create Virtual Environment (Optional but Recommended)
 bash
