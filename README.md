@@ -52,16 +52,26 @@ Built using **Python 3.10**, **OpenCV**, and **MediaPipe**.
 ## 🧱 Project Structure
 Virtual Gesture Control/
 │
-├── main.py # Entry script for keyboard + gesture controller
-├── Utils/
-│ ├── calibration.py # Hand tracking calibration (if used)
-│ ├── gesture_detection.py # Core gesture logic
-│ ├── virtual_keyboard.py # Keyboard layout and keypress detection
-│ ├── yt_gesture_control.py # YouTube control with hand gestures
-│ └── hand_tracking.py # Hand tracking utility (via MediaPipe)
-├── .venv/ # Virtual Environment (optional)
-├── requirements.txt # Project dependencies
-└── README.md # Project overview (this file)
+├── main.py                  # Entry script for keyboard + gesture controller
+├── hand_tracking.py         # Hand tracking utility (via MediaPipe)
+│
+├── Utils/                   # Utility modules
+│   ├── calibration.py       # Hand tracking calibration (if used)
+│   ├── gesture_detection.py # Core gesture logic
+│   ├── virtual_keyboard.py  # Keyboard layout and keypress detection
+│   └── yt_gesture_control.py# YouTube control with hand gestures
+│
+├── .venv/                   # Virtual environment (excluded via .gitignore)
+├── __pycache__/             # Compiled Python cache files (ignored)
+│
+├── requirements.txt         # Project dependencies
+├── README.md                # Project overview and documentation
+├── .gitignore               # Files/folders excluded from Git
+├── LICENSE                  # License file
+│
+├── SS1.png                  # Screenshot 1 (project demo)
+└── SS2.png                  # Screenshot 2 (project demo)
+
 
 yaml
 Copy
