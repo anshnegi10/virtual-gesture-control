@@ -67,13 +67,12 @@ Virtual Gesture Control/
 
 ---
 
-## 🧑‍💻 How to Run
+ 🧑‍💻 How to Run
 
 ### 1. Clone the Repo
 
 ```bash
 git clone  https://github.com/anshnegi10/virtual-gesture-control.git
-cd virtual-gesture-control
 2. Create Virtual Environment (Optional but Recommended)
 bash
 Copy
